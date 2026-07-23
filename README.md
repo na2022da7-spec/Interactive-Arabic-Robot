@@ -34,8 +34,8 @@ The goal of Nebras is to create a simple Arabic-speaking robot that demonstrates
 
 ## Developers
 
-Alanoud
-Shahad
-Nada
-Yara
+* Alanoud
+* Shahad
+* Nada
+* Yara
 
